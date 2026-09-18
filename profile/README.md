@@ -2,4 +2,4 @@
 
 Machine learning research, on one machine.
 
-Nothing public yet. Work is shared on request.
+Most of the work here is private and shared on request.
