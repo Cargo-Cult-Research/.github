@@ -29,9 +29,8 @@ Also public: **[pybricks-micropython](https://github.com/Cargo-Cult-Research/pyb
 (fork, branch `mlp-module`) — neural-network inference on a LEGO Technic Hub,
 in C on the Cortex-M4F.
 
-The repositories behind J-lens, brainbow and schema are private, as is the rest
-of the work here — agentic-coding evaluation, long-horizon agent behaviour in
-sealed containers, sim-to-real RL. Shared on request.
+The repositories behind J-lens, brainbow and schema are private. Shared on
+request.
 
 ---
 
